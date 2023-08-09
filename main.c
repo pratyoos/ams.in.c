@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_STUDENTS 20 // Maximum number of students that can be added
+#define MAX_STUDENTS 20 // Maximum number of students that can be added.
 
 // Structure to store student data
 typedef struct

@@ -12,7 +12,6 @@ typedef struct
     int absent;
 } Student;
 
-
 // name: saveDataToFile
 // working: Saves the student data to a file by overwriting the existing data
 //desc: This function takes the array of students and the number of students as input and saves the data to a file

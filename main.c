@@ -4,6 +4,7 @@
 
 #define MAX_STUDENTS 20 // Maximum number of students that can be added.
 
+
 // Structure to store student data
 typedef struct
 {
